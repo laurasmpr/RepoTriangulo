@@ -1,5 +1,5 @@
 package ppss;
-
+/**/
 
 public class Triangulo {
 
